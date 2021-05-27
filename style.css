@@ -1,0 +1,36 @@
+div#general{
+	margin: auto;
+    width: 960px,
+	height:800px;
+	background-color:#DAFAF5;
+}
+div#top10{
+	float: right;
+	width: 300px,
+	height:500px;
+	background-color: white;
+}
+div#titulo{
+	width: 620px,
+	height:200px;
+}
+div#body{
+	margin-top: 20px;
+	width: 640px,
+	height:580px;
+	background-color: #DAFAF5;
+}
+.fa{
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+}
+.fa:hover{
+ 	opacity: 0.7;
+}
+.fa-facebook{
+	background:#3B5998;
+	color: black;
+}
